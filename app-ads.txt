@@ -542,6 +542,8 @@ yandex.com, 95746987, RESELLER
 yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
 
+#smaato
+pubnative.net, 1009197, DIRECT, d641df8625486a7b
 smaato.com, 1100054425, DIRECT, 07bcf65f187117b4
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
