@@ -1331,6 +1331,10 @@ smartyads.com, 100097, RESELLER, fd2bde0ff2e62c5d
 smartadserver.com, 4498, RESELLER, 060d053dcf45cbf3
 nobid.io, 22485254660, RESELLER
 Contextweb.com, 562984, RESELLER, 89ff185a4c4e857c
+bidscube.com, 500030, DIRECT, 6ecc87a1e0269657
+openx.com, 540170114, RESELLER, 6a698e2ec38604c6
+instreamatic.com, 106, RESELLER
+adswizz.com, entravision, DIRECT
 
 #WMG
 adwmg.com, 100887, DIRECT, c9688a22012618e7
