@@ -1335,6 +1335,16 @@ bidscube.com, 500030, DIRECT, 6ecc87a1e0269657
 openx.com, 540170114, RESELLER, 6a698e2ec38604c6
 instreamatic.com, 106, RESELLER
 adswizz.com, entravision, DIRECT
+zetaglobal.net, 546, RESELLER
+adswizz.com, 590, RESELLER
+adswizz.com, kriteria, DIRECT
+adswizz.com, 20, RESELLER
+mosher.media, 305, DIRECT
+tritondigital.com, 169853, DIRECT, 19b4454d0b87b58b
+adswizz.com, 169853, RESELLER
+smartyads.com, 100152, RESELLER, fd2bde0ff2e62c5d
+instreamatic.com, 183, RESELLER
+mosher.media, 319, DIRECT
 
 #WMG
 adwmg.com, 100887, DIRECT, c9688a22012618e7
