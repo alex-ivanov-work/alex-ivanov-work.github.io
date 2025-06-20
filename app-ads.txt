@@ -2333,6 +2333,23 @@ triplelift.com,10223,RESELLER,6c33edb13117fd86
 pubnative.net,1003601,RESELLER,d641df8625486a7b
 pubnative.net,1007063,RESELLER,d641df8625486a7b
 pubnative.net,1007563,RESELLER,d641df8625486a7b
+pubnative.net, 1016462, DIRECT, d641df8625486a7b
+pubnative.net, 1016466, DIRECT, d641df8625486a7b
+
+indexexchange.com, 207402, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 156745, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161700, RESELLER, 5d62403b186f2ace
+pubnative.net, 1007689, RESELLER, d641df8625486a7b
+pubnative.net, 1007865, RESELLER, d641df8625486a7b
+pubnative.net, 1008891, RESELLER, d641df8625486a7b
+risecodes.com, 67237dda498f7100018d34ff, RESELLER, 79929e88b2ba73bc
+risecodes.com, 6769332c8eb1b90001e9ed6f, RESELLER, 79929e88b2ba73bc
+rtbhouse.com, 8e380da6-31ba-488c-939c-290c48d577e4, RESELLER
+rtbhouse.com, a4fc102e-449c-483d-bdf8-b2a476a3f3bd, RESELLER
+saharmedia.net, 1103571, RESELLER
+saharmedia.net, 1683573, RESELLER
+
+
 
 #Xandr
 xandr.com,13293,RESELLER,f5ab79cb980f11d1
